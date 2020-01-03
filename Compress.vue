@@ -38,8 +38,8 @@ export default {
           srcImgBase64: imgBase64,
           exportImgWidth: 500,
           exportImgHeight: 600,
-          waterMasterText1: '11111111111111111222222222222223333333334445',
-          waterMasterText2: '1232313132313131313131313131231313fsdfefjewwiwejrji仅限中国联通的',
+          waterMasterText1: 'Wubba lubba dub dub',
+          waterMasterText2: 'Wubba lubba dub dub，Wubba lubba dub dub，Wubba lubba dub dub，Wubba lubba dub dub，Wubba lubba dub dub',
           lineHeight: 13
         })
         console.log(aasrc)
